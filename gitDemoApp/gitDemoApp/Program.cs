@@ -7,7 +7,7 @@ namespace gitDemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello PXL");
+            Console.WriteLine("Hello GIT");
         }
     }
 }
