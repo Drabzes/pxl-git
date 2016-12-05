@@ -8,5 +8,6 @@ namespace gitDemoApp
 {
     class Student
     {
+        public int id { get; set; }
     }
 }
